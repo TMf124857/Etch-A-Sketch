@@ -1,0 +1,1 @@
+window.onload = addDiv(16); // on page load, create a 16 x 16 grid
